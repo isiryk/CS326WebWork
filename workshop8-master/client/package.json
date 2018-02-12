@@ -1,0 +1,28 @@
+{
+  "name": "workshop-8-authentication-client",
+  "version": "0.0.1",
+  "description": "Client-side of CS326 Workshop 8",
+  "author": "John Vilk <jvilk@cs.umass.edu>",
+  "license": "MIT",
+  "scripts": {
+    "build": "./node_modules/.bin/webpack",
+    "watch": "./node_modules/.bin/webpack --watch",
+    "serve": "./node_modules/.bin/webpack-dev-server --content-base build"
+  },
+  "devDependencies": {
+    "babel": "^6.3.26",
+    "babel-core": "^6.4.0",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "eslint": "^1.10.3",
+    "eslint-plugin-react": "^3.14.0",
+    "history": "^1.17.0",
+    "react": "^0.14.6",
+    "react-bootstrap-modal": "^2.0.0",
+    "react-dom": "^0.14.6",
+    "react-router": "^2.0.0",
+    "webpack": "^1.12.12",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
