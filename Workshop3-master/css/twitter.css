@@ -1,0 +1,32 @@
+body {
+  padding-top: 20px;
+}
+
+.navbar{
+  padding-bottom: 1px;
+}
+
+.fontsize-retweet {
+  font-size: 10px;
+  font-family: Arial, sans-serif;
+}
+
+.search-length {
+  width: 583px;
+}
+
+.blue {
+  color: #aab8c2;
+}
+
+.right{
+  float: right;
+}
+
+.container {
+  border-radius: 5px;
+}
+
+.border{
+  border-radius: 50px;
+}
